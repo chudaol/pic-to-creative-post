@@ -2,6 +2,7 @@
   <v-card>
     <v-img
       class="white--text align-end"
+      width="100%"
       :src="original ? originalUrl : creativeUrl"
     >
     </v-img>

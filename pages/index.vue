@@ -1,6 +1,6 @@
 <template>
   <v-layout
-    column
+    row
     justify-center
     align-center
   >

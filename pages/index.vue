@@ -11,7 +11,11 @@
       v-for="(pic, i) in pics" :key="i"
       class="pa-1"
     >
-      <photo-post :originalUrl="pic.originalUrl" :creativeUrl="pic.creativeUrl" />
+      <photo-post
+        :originalUrl="pic.originalUrl"
+        :creativeUrl="pic.creativeUrl"
+        :description="pic.description"
+      />
     </v-flex>
   </v-layout>
 </template>

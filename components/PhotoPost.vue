@@ -1,5 +1,5 @@
 <template>
-  <v-card>
+  <v-card @click="toggleOriginal">
     <v-img
       class="white--text align-end"
       width="100%"

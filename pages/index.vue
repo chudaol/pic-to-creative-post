@@ -9,6 +9,7 @@
       sm6
       md4
       v-for="(pic, i) in pics" :key="i"
+      class="pa-1"
     >
       <photo-post :originalUrl="pic.originalUrl" :creativeUrl="pic.creativeUrl" />
     </v-flex>

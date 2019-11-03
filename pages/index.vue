@@ -1,8 +1,6 @@
 <template>
   <v-layout
     row
-    justify-center
-    align-center
   >
     <v-flex
       xs12

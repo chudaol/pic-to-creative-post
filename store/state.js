@@ -7,7 +7,7 @@ const pics = [
   {
     originalUrl: 'https://scontent.fmuc3-1.fna.fbcdn.net/v/t1.0-0/p320x320/76646834_2491272804290289_674155044785881088_n.jpg?_nc_cat=101&_nc_oc=AQmgxKwB-4I_4ojxACksGLFAlYnfSV13tVYK3IE96Z9UE5OTmqpI2lFzIykDpy3CGeA&_nc_ht=scontent.fmuc3-1.fna&oh=eee96cd3c6f4a177486293073c78d92d&oe=5E65006A',
     creativeUrl: 'https://scontent.fmuc3-1.fna.fbcdn.net/v/t1.0-0/p350x350/75567339_1870946529702432_7911638193718427648_n.jpg?_nc_cat=103&_nc_oc=AQmapAVFORnzjl7yns10_Pcb9jzbO0-WXh8qDPotNFA6G71eL5kJUwiryjGgE2w8gSc&_nc_ht=scontent.fmuc3-1.fna&oh=ffe1f08e91707cbda92716f00eff76d6&oe=5E168BDB',
-    description: ''
+    description: 'В зеркале отражена лишь внешность. Внутрненний мир - глубже, и зависит от угла преломления, не подвластного оптическим законам'
   },
   {
     originalUrl: 'https://scontent.fmuc3-1.fna.fbcdn.net/v/t1.0-0/p320x320/76778257_10218493347459403_303928438668918784_n.jpg?_nc_cat=108&_nc_oc=AQkn0Qo758fp51A_CaeKDXykhn6Z8A0mrwtgdm-X7aj7_tmErGBESTx_lIt8QbOPUqQ&_nc_ht=scontent.fmuc3-1.fna&oh=b776289f4eef15845645b5c5ddecc899&oe=5E5A49E3',
@@ -62,6 +62,11 @@ const pics = [
   {
     originalUrl: 'https://scontent.xx.fbcdn.net/v/t1.0-0/p320x320/77349456_1027563594248468_8062516460636864512_n.jpg?_nc_cat=106&_nc_oc=AQmnFbpUJtA4vYc5PYXAi6QHesQp7uF86piPI3Es1j0sQUSJvkCCytEIJxzSwpNPViCQUSNOeSUi-EJTzO-fokSC&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent.xx&oh=d71bd7cb309539f0bf14b6738bc9b5f7&oe=5E54CF52',
     creativeUrl: 'https://scontent.xx.fbcdn.net/v/t1.0-0/p350x350/75450095_1871125506351201_6751085898026188800_n.jpg?_nc_cat=100&_nc_oc=AQlzrhFdWIyNB9Q2mhq6AfQaYgTIBRWgGVYeHYA0xmZJE1ZvrI58C-9L5dyratD_Tfcy6jCpnPIxgtYyhz0BeWvY&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent.xx&oh=7a7ab6d95ccc34d394de933f75589bca&oe=5E1723B6',
+    description: ''
+  },
+  {
+    originalUrl: 'https://scontent.fmuc3-1.fna.fbcdn.net/v/t1.0-0/p526x296/74319091_3135726556453921_4404616943483486208_n.jpg?_nc_cat=109&_nc_oc=AQmXISwtSJQFpg_Pri6ySCn3DAdQGpYz9Pqb3s8J8e2WAoAGTOZDHgNdHs0o4sI2kTo&_nc_ht=scontent.fmuc3-1.fna&oh=9830773a69b31b6437eeb4a1a9ca8fea&oe=5E48DE80',
+    creativeUrl: 'https://scontent.fmuc3-1.fna.fbcdn.net/v/t1.0-0/s480x480/76171973_1871961022934316_4298259169389051904_n.jpg?_nc_cat=101&_nc_oc=AQkvuZWvpWoFdphqvJkwwlLhZsN2XLLfGJ2ei83xtqEpztN6AFIDxBlZVoFGva7RV_I&_nc_ht=scontent.fmuc3-1.fna&oh=14063d8018681ca722042df20197089d&oe=5E1CE7EF',
     description: ''
   }
 ]
